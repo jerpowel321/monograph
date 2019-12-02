@@ -34,17 +34,17 @@ The survey form asks diners *How was your meal*. The following list are decision
 After I decided on the above preferences, I started researching and thinking of the designs I would like to implement. 
 
 1) At first I thought of using an emoji slidebar, something similar to the image displayed below. 
- <img src="https://emd.diamonds/homepage/blog/images/50.jpg" alt="Heart Eyes Smiley Face on scroll bar"> I liked this slidebar because it's unique and would be fun to explore. I think users would also enjoy making their selection with this. However I wasn't sure how much time this would involve so I decided to keep looking at ideas and come back to this if I had extra time. 
+ <img src="https://emd.diamonds/homepage/blog/images/50.jpg" alt="Heart Eyes Smiley Face on scroll bar" width="300px"> I liked this slidebar because it's unique and would be fun to explore. I think users would also enjoy making their selection with this. However I wasn't sure how much time this would involve so I decided to keep looking at ideas and come back to this if I had extra time. 
 
  2) The second idea I had was to use a simple green, yellow, red emoji selector for customers to share their dining experience. Something similar to the image below.  
- <img src="https://image.shutterstock.com/image-vector/vector-illustration-facial-expressions-smiley-260nw-735337456.jpg" alt="Green Happy Smiley Face, Yellow Neutral Face, Red Sad Face">
+ <img src="https://image.shutterstock.com/image-vector/vector-illustration-facial-expressions-smiley-260nw-735337456.jpg" alt="Green Happy Smiley Face, Yellow Neutral Face, Red Sad Face" width="300px">
  However, I ended up not using this as I felt these emojis are typically used for rating service and not the full dining experience. I also felt I needed a softer and more professional design to match the rest of the page layout and decided to pass on this idea.
 
  3) The third idea I had was to design something similar to the image below. 
- <img src="https://www.nicereply.com/blog/wp-content/uploads/2017/11/image8.png" alt="Terrible Smiley Face, Sad Smiley Face, Okay Smiley Face, Good Smiley Face, Great Smiley Face"> There were times I felt the crying emoji representing extremely unsatisfied might be a bit 
+ <img src="https://www.nicereply.com/blog/wp-content/uploads/2017/11/image8.png" alt="Terrible Smiley Face, Sad Smiley Face, Okay Smiley Face, Good Smiley Face, Great Smiley Face" width="300px"> 
 
 ## Final Webpage
-<img src="monographreviewlaptopview.png">
+<img src="./monographreviewlaptopview.png">
 
 
 
