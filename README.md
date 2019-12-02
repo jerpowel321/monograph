@@ -44,7 +44,7 @@ After I decided on the above preferences, I started researching and thinking of 
  <img src="https://www.nicereply.com/blog/wp-content/uploads/2017/11/image8.png" alt="Terrible Smiley Face, Sad Smiley Face, Okay Smiley Face, Good Smiley Face, Great Smiley Face" width="300px"> 
 
 ## Final Webpage
-<img src="./monographreviewlaptopview.png">
+<img src="monographreviewlaptopview.png">
 
 
 
