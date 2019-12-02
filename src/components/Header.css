@@ -1,0 +1,63 @@
+.header {
+  padding: 80px 80px;
+  border-bottom: 1px solid #ccc;
+}
+
+.header-logo {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 2rem;
+  border: 0.5rem solid #000;
+}
+
+.header-content {
+  font-size: 3.5rem;
+  font-weight: 300;
+  margin: 1rem 0 0;
+}
+
+.header-illustration {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 300px;
+}
+
+@media screen and (max-width: 360px) {
+  .header-illustration {
+    display: none;
+    }
+
+  .header {
+    padding: 0px 0px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .header-logo{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 20px;
+    top: 25px;
+    
+    border: 8px solid #000000;
+    box-sizing: border-box;
+  }
+
+  .header-content{
+    position: absolute;
+    width: 254px;
+    height: 38px;
+    left: 20px;
+    top: 102px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    margin-top:0px;
+  }
+  
+}

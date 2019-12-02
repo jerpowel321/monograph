@@ -1,0 +1,156 @@
+.form {
+  width: 480px;
+  margin-top: 3rem;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form-textarea {
+  width: 100%;
+  font-size: 1.25rem;
+  padding: 1rem;
+  background: rgba(222, 237, 247, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  font-family: Roboto;
+}
+
+.form-input {
+  width: 2.5rem;
+  font-size: 1.25rem;
+  padding: 1rem;
+  background: rgba(222, 237, 247, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 360px) {
+  .form {
+    /* max-width: 360px; */
+    width: 320px !important;
+  }
+  .app-right{
+    flex:0 0 0% !important;
+  }
+  .form-label-feedback{
+    position: absolute;
+    width: 102px;
+    height: 19px;
+    left: 20px;
+    top: 550px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+/* identical to box height */
+    color: #000000;
+  }
+
+  .form-textarea{
+    position: absolute;
+    width: 320px;
+    height: 139px;
+    left: 20px;
+    top: 585px;
+
+    background: rgba(222, 237, 247, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-family: Roboto;
+    
+  }
+
+  .form-input{
+    position: absolute;
+    width: 288px;
+    height: 46px;
+    left: 36px;
+    top: 601px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    border: 1px solid rgba(0, 0, 0, 0);
+
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .form-label-party{
+    position: absolute;
+    width: 175px;
+    height: 19px;
+    left: 16px;
+    top: 748px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #000000;
+    margin-bottom: 16px;
+  }
+
+  .form-input-party{
+    position: absolute;
+    width: 50px;
+    height: 49px;
+    left: 16px;
+    top: 783px;
+
+    background: rgba(222, 237, 247, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 8px;
+    } 
+
+  .form-label-satisfaction{
+    position: absolute;
+    width: 147px;
+    height: 19px;
+    left: 16px;
+    top: 856px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #000000;
+  }
+  
+  .containerEmoji{
+    position: absolute;
+    width: 328px;
+    height: 250px;
+    left: 16px;
+    top: 891px;
+    flex-wrap: wrap; 
+    justify-content:center;
+    box-sizing: border-box;
+    border-radius: 8px;
+  }
+
+  .box {
+      height: 100px;
+      width: 40px;
+      margin-bottom: 20px;
+      margin-right: 15px;
+  }
+
+  .box p {
+    font-size: 12px;
+  }
+  }
